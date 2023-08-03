@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# uas-2023
-=======
-# UAS-2023
->>>>>>> 353a8c2125a8f41a4ad810a3963a303a15d0938c
+UAS-2023
+
+mata kuliah Web Service dan Kecerdasan  Buatan
